@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Olá! Eu sou João Vitor Matos
 
-<!--
-**joaomatostv/joaomatostv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Sobre mim
 
-Here are some ideas to get you started:
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
+💻 Focado em Desenvolvimento Web Back-end  
+🚀 Construindo minha carreira como desenvolvedor  
+📚 Estudando programação e realizando formações complementares pela Alura  
+🎯 Objetivo: conquistar minha primeira oportunidade como Desenvolvedor Back-end
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias em aprendizado
+
+- JavaScript
+- Node.js
+- Git
+- GitHub
+
+## 📈 Minha jornada
+
+Estou construindo minha base em Desenvolvimento Web Back-end, unindo os estudos da faculdade, cursos complementares e muita prática.
+
+Utilizo este GitHub para registrar minha evolução, exercícios e projetos desenvolvidos durante meus estudos.
+
+Cada projeto representa uma nova etapa da minha evolução como desenvolvedor. 🚀
